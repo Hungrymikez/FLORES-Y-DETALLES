@@ -169,7 +169,8 @@ body, ul, li, p, a, label, input, div {
 }
 
 @media (min-width: 576px) {
-  .tempaltemo-carousel .h1 { font-size: 1em !important;}
+  .tempaltemo-carousel .h2 { font-size: 1em !important;
+  box-sizing: border-box;}
 }
 
 /*// Medium devices (tablets, 768px and up)*/
