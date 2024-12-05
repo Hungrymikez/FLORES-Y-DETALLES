@@ -5,3 +5,8 @@ Custom Css
 body{
     box-sizing: border-box;
 }
+
+.redondeo{
+    border-radius: 2em;
+
+}
