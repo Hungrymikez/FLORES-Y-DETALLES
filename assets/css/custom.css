@@ -10,9 +10,10 @@ body{
     border-radius: 2em;
 
 }
-poposo{
-    border: 2em white;
+.icono1{
+
+    font-size: 15em;
 }
-hr{
-    color: #2d343f ;
+.icono1:hover{
+    color: palevioletred;
 }
